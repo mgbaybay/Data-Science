@@ -1,2 +1,3 @@
-# Data-Science
-Road to Data Analytics and Machine Learning
+# Data-Analytics
+
+Repository contains basic practice and data analysis using python  
