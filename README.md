@@ -1,6 +1,6 @@
 # Data Analytics Course
 
-Repository contains activiies related to:
+Repository contains activities related to:
 - Python 
 - Jupyter Notebook
 - Anaconda
